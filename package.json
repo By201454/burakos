@@ -1,0 +1,14 @@
+{
+  "name": "burak-os",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Burak-OS masaüstü kabuğu (Electron ile tam ekran)",
+  "main": "electron-main.js",
+  "scripts": {
+    "start": "electron .",
+    "desktop": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^33.4.0"
+  }
+}
